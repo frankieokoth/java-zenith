@@ -471,7 +471,7 @@ The cycle then repeats at a higher level of complexity.
 
 # 7. Curriculum
 
-# Phase 00 — Environment & Tooling
+# Phase 00 - Environment & Tooling
 
 Directory:
 
@@ -544,7 +544,7 @@ This phase also establishes the development environment used by all subsequent p
 
 ---
 
-# Phase 01 — Java Foundations
+# Phase 01 - Java Foundations
 
 Directory:
 
@@ -587,7 +587,7 @@ Core question:
 
 ---
 
-# Phase 02 — Object-Oriented Programming & Design
+# Phase 02 - Object-Oriented Programming & Design
 
 Directory:
 
@@ -633,7 +633,7 @@ Engineering concepts:
 
 ---
 
-# Phase 03 — Exceptions & Robustness
+# Phase 03 - Exceptions & Robustness
 
 Directory:
 
@@ -668,7 +668,7 @@ Questions:
 
 ---
 
-# Phase 04 — Collections & Generics
+# Phase 04 - Collections & Generics
 
 Directory:
 
@@ -712,7 +712,7 @@ Engineering focus:
 
 ---
 
-# Phase 05 — Functional & Modern Java
+# Phase 05 - Functional & Modern Java
 
 Directory:
 
@@ -746,7 +746,7 @@ Focus:
 
 ---
 
-# Phase 06 — Testing & Build Engineering
+# Phase 06 - Testing & Build Engineering
 
 Directory:
 
@@ -783,7 +783,7 @@ A test should communicate intended behavior, not merely increase a coverage perc
 
 ---
 
-# Phase 07 — JVM Internals
+# Phase 07 - JVM Internals
 
 Directory:
 
@@ -822,7 +822,7 @@ Develop a useful mental model of what happens after Java source code is compiled
 
 ---
 
-# Phase 08 — Concurrency
+# Phase 08 - Concurrency
 
 Directory:
 
@@ -870,7 +870,7 @@ It is learned by understanding **shared state, visibility, ordering, synchroniza
 
 ---
 
-# Phase 09 — Spring Core
+# Phase 09 - Spring Core
 
 Directory:
 
@@ -903,7 +903,7 @@ Understand Spring as a dependency management and application framework before re
 
 ---
 
-# Phase 10 — Spring Boot & Web
+# Phase 10 - Spring Boot & Web
 
 Directory:
 
@@ -951,7 +951,7 @@ multi-layer backend
 
 ---
 
-# Phase 11 — Persistence
+# Phase 11 - Persistence
 
 Directory:
 
@@ -990,7 +990,7 @@ Understand the database rather than allowing an ORM to hide it.
 
 ---
 
-# Phase 12 — Spring Testing
+# Phase 12 - Spring Testing
 
 Directory:
 
@@ -1019,7 +1019,7 @@ Develop confidence that a Spring application works as a system, not merely as is
 
 ---
 
-# Phase 13 — Security
+# Phase 13 - Security
 
 Directory:
 
@@ -1054,7 +1054,7 @@ Security principle:
 
 ---
 
-# Phase 14 — Production Engineering
+# Phase 14 - Production Engineering
 
 Directory:
 
@@ -1100,7 +1100,7 @@ to:
 
 ---
 
-# Phase 15 — Distributed Backend Systems
+# Phase 15 - Distributed Backend Systems
 
 Directory:
 
@@ -1150,7 +1150,7 @@ A system of programs communicating over unreliable networks.
 
 ---
 
-# Phase 16 — Zenith Capstone
+# Phase 16 - Zenith Capstone
 
 Directory:
 
@@ -1808,7 +1808,7 @@ A topic is complete when:
 
 Projects exist to force concepts to interact.
 
-## Project 01 — Banking CLI
+## Project 01 - Banking CLI
 
 Purpose:
 
@@ -1828,7 +1828,7 @@ Potential features:
 
 ---
 
-## Project 02 — Transaction Analytics
+## Project 02 - Transaction Analytics
 
 Purpose:
 
@@ -1853,7 +1853,7 @@ Potential capabilities:
 
 ---
 
-## Project 03 — Financial REST API
+## Project 03 - Financial REST API
 
 Purpose:
 
@@ -1884,7 +1884,7 @@ Features:
 
 ---
 
-## Project 04 — Concurrency Laboratory
+## Project 04 - Concurrency Laboratory
 
 Purpose:
 
@@ -1908,7 +1908,7 @@ The project should contain measurements rather than merely code.
 
 ---
 
-## Project 05 — Production Service
+## Project 05 - Production Service
 
 Purpose:
 
@@ -1930,7 +1930,7 @@ Potential features:
 
 ---
 
-## Project 06 — Zenith Capstone
+## Project 06 - Zenith Capstone
 
 Purpose:
 
